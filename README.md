@@ -8,6 +8,8 @@ I have solid experience with C and Python, and I'm currently diving into SQL, HT
 This GitHub is where I share what I’m learning, building, and experimenting with. Feel free to explore or reach out!
 
 
+
+
 Eu sou o Francisco Afonso, estudante universitário na UAlg, no curso de Engenharia Informática.
 Sou apaixonado por aprender e estou sempre à procura de novas formas de resolver problemas e criar soluções.
 
