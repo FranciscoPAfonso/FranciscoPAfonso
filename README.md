@@ -9,6 +9,16 @@
 
 ###
 
+<h3 align="left"> About Me</h3>
+
+###
+
+<p align="left">- I’m studying Informatics Engineering in Ualg University and looking forward to acing it!<br>- I'm currently learning HTML, CSS and JavaScrift to broaden new horizons <br>- In my free time I learn new skills, exercice and spend time with my family<br>- Still ALOT to learn, but I have my mind and fingers ready</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
 ###
 
 <div align="left">
