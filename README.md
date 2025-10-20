@@ -1,18 +1,20 @@
-## Hey there 
+<h1 align="center">Hi there, I'm Francisco Afonso</h1>
+<h3 align="center">The next BIG thing</h3>
 
-I'm Francisco Afonso, a university student at UAlg, currently studying Informatics Engineering.
-I'm passionate about learning and always curious to discover new ways to solve problems and build things.
+- I’m currently working on **Acing my degree** at Ualg University
 
-I have solid experience with C and Python, and I'm currently diving into SQL, HTML, CSS, and JavaScript to broaden my skill set.
+- I’m currently learning **HTML, CSS and JavaScript** to broaden my skill set
 
-This GitHub is where I share what I’m learning, building, and experimenting with. Feel free to explore or reach out!
+- I’m looking for help with **Learning new skills**
 
+- How to reach me **franciscopafonso@gmail.com**
 
+- Fun fact **I'm super funny (If you have good taste)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/itzz._.francisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzz._.francisco" height="30" width="40" /></a>
+</p>
 
-Eu sou o Francisco Afonso, estudante universitário na UAlg, no curso de Engenharia Informática.
-Sou apaixonado por aprender e estou sempre à procura de novas formas de resolver problemas e criar soluções.
-
-Tenho bons conhecimentos em C e Python, e neste momento estou a aprender SQL, HTML, CSS e JavaScript para expandir as minhas competências.
-
-Este GitHub é onde partilho o que estou a aprender, a desenvolver e a explorar. Sente-te à vontade para dar uma uma vista de olhos e entra em contacto se precisares de algo.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
